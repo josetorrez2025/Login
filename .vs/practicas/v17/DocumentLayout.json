@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\basefake\\basefakelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\basefake\\basefakelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|c:\\users\\ariel\\desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA969F7C-52F0-45B1-8E03-BF702195F4ED}|practicas\\practicas.csproj|solutionrelative:practicas\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "practicas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "practicas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:42:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Program.cs",
+              "RelativeDocumentMoniker": "practicas\\Program.cs",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Program.cs",
+              "RelativeToolTip": "practicas\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:25:53.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "practicas\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "practicas\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T03:43:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "practicas\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "practicas\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:41:04.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseFakeLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\basefake\\BaseFakeLogin.cs",
+              "RelativeDocumentMoniker": "practicas\\basefake\\BaseFakeLogin.cs",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\basefake\\BaseFakeLogin.cs",
+              "RelativeToolTip": "practicas\\basefake\\BaseFakeLogin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:19:12.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "practicas\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ariel\\Desktop\\3er a\u00F1o\\programacion 5\\practicas\\practicas\\Models\\LoginModel.cs",
+              "RelativeToolTip": "practicas\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:15:17.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
